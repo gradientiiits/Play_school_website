@@ -675,10 +675,11 @@ h3.tittle.white {
 /*--//flexisel--*/
 /*-- team --*/
 .team{
-	background:url(../images/t_bg3.jpg)no-repeat 0px 0px;
+	background:url(../images/t_bg3.jpg)no-repeat 0px 0px ;
 	background-size:cover;
 	background-attachment:fixed;
 }
+
 .team-heading h3,.team-heading p{
 	color:#FFFFFF;
 }
