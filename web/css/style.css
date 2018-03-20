@@ -35,7 +35,7 @@ body a:hover{
 
 /*-- banner --*/ 
 .banner{ 
-	background:url(../images/b12.jpg)no-repeat ;
+	background:url(../images/b12.jpeg)no-repeat ;
 	-webkit-background-size:cover; 
 	-moz-background-size:cover; 
 	-o-background-size:cover;
@@ -45,7 +45,7 @@ body a:hover{
 	position:relative;
 } 
 .banner-1{ 
-	background:url(../images/b12.jpg)no-repeat;
+	background:url(../images/b12.jpeg)no-repeat;
 	-webkit-background-size:cover; 
 	-moz-background-size:cover; 
 	-o-background-size:cover;
@@ -227,8 +227,8 @@ body a:hover{
     text-transform: uppercase;
 } 
 .banner-w3lstext p {
-    font-size: 1.1em;
-    color: #fff;
+    font-size: 1.4em;
+    color: #000000;
     text-align: center; 
     width: 55%;
     margin: 2em auto 0;
@@ -675,7 +675,7 @@ h3.tittle.white {
 /*--//flexisel--*/
 /*-- team --*/
 .team{
-	background:url(../images/t_bg3.jpg)no-repeat 0px 0px ;
+	background:url(../images/t_bg3.jpeg)no-repeat 0px 0px ;
 	background-size:cover;
 	background-attachment:fixed;
 }
@@ -2155,7 +2155,7 @@ table.table.table-striped,.table-bordered,.bs-docs-example {
     line-height: 1.5em;
 }
 .banner {
-    background: url(../images/b12.jpg)no-repeat -200px 0px;
+    background: url(../images/b12.jpeg)no-repeat -200px 0px;
     background-size: cover;
 }
 .sevices-grid {
@@ -2655,7 +2655,7 @@ width: 50%;
 }
 @media(max-width:375px){
 .banner {
-    background: url(../images/b12.jpg)no-repeat -367px 0px;
+    background: url(../images/b12.jpeg)no-repeat -367px 0px;
     background-size: cover;
 }
 .w3-button {
@@ -2676,7 +2676,7 @@ width: 50%;
 }
 @media(max-width:320px){
 .banner {
-    background: url(../images/b12.jpg)no-repeat -484px 0px;
+    background: url(../images/b12.jpeg)no-repeat -484px 0px;
     background-size: cover;
 }
 .w3-button {
